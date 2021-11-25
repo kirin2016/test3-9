@@ -11,11 +11,43 @@ tr {
     vertical-align: middle;
 }
 
-
 td {
     padding: 3.5px 5px;
 }
 
 h2 {
     margin: 15px 0;
+}
+
+.flash {
+    color: green;
+}
+
+h4 {
+    margin-top: 10px;
+}
+
+.submit {
+    margin: 10px 0;
+}
+
+.error {
+    width: 450px;
+    border: 2px solid red;
+    margin-bottom: 20px;
+    background-color: lightgray;
+}
+
+.e-head {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px;
+    padding-left: 15px;
+    background-color: red;
+    color: white;
+}
+
+.e-body {
+    margin: 30px 60px;
+    
 }
